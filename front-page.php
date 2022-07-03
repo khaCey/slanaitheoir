@@ -241,7 +241,7 @@
                     <div class="sample-container">
                         <div class="samples">
                             <!-- Feature item-->
-                            <a class="box-link" href="scoile.khaceyslanaitheoir.com">
+                            <a class="box-link" href="https://scoile.khaceyslanaitheoir.com">
                                 <div class="text-center">
                                     <i class="bi-book icon-feature text-gradient d-block mb-3"></i>
                                     <h3 class="font-alt">Scoile</h3>
