@@ -25,13 +25,13 @@ jobs:
         with:
           username: khaceysl
           server: khaceyslanaitheoir.com
-          port: 22 # default is 22
-          ssh_private_key: ${{ secrets.key }}
+          port: 21 # default is 22
+          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
 
           # will put all file under this path
           local_path: ./* # default is ./*
           # files will copy to under remote_path
-          remote_path: /var/www
+          remote_path: /home2/khaceysl/public_html/wp-content/themes/slanaitheoir
 
           # sftp args
           args: "-o ConnectTimeout=5"
