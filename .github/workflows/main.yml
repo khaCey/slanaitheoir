@@ -25,8 +25,8 @@ jobs:
         with:
           username: khaceysl
           server: khaceyslanaitheoir.com
-          port: 22 # default is 22
-          ssh_private_key: ${{ secrets.key }}
+          port: 21 # default is 22
+          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
 
           # will put all file under this path
           local_path: ./* # default is ./*
