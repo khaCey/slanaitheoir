@@ -12,6 +12,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
         server: ftp.khaceyslanaitheoir.com
-        username: admin.khaceyslanaitheoir.com
+        username: ${{ secrets.ftp_user }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /home2/khaceysl/public_html/wp-content/themes/slanaitheoir/
+        server-dir: /public_html/wp-content/themes/slanaitheoir/
