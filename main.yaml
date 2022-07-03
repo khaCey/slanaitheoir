@@ -31,7 +31,7 @@ jobs:
           # will put all file under this path
           local_path: ./* # default is ./*
           # files will copy to under remote_path
-          remote_path: /home2/khaceysl/public_html/wp-content/themes/slanaitheoir
+          remote_path: /home2/khaceysl/public_html/wp-content/themes/slanaitheoir/
 
           # sftp args
           args: "-o ConnectTimeout=5"
