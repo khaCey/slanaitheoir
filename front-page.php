@@ -250,7 +250,7 @@
                         </div>
                         <div class="samples">
                             <!-- Feature item-->
-                            <a class="box-link" href="bialann.khaceyslanaitheoir.com">
+                            <a class="box-link" href="https://bialann.khaceyslanaitheoir.com">
                                 <div class="text-center">
                                     <i class="bi-shop icon-feature text-gradient d-block mb-3"></i>
                                     <h3 class="font-alt">Bialann</h3>
@@ -259,7 +259,7 @@
                         </div>
                         <div class="samples">
                             <!-- Feature item-->
-                            <a class="box-link" href="sanitas.khaceyslanaitheoir.com">
+                            <a class="box-link" href="https://sanitas.khaceyslanaitheoir.com">
                                 <div class="text-center">
                                     <i class="bi-clipboard icon-feature text-gradient d-block mb-3"></i>
                                     <h3 class="font-alt">Sanitas</h3>
@@ -268,7 +268,7 @@
                         </div>
                         <div class="samples">
                             <!-- Feature item-->
-                            <a class="box-link" href="mise.khaceyslanaitheoir.com">
+                            <a class="box-link" href="https://mise.khaceyslanaitheoir.com">
                                 <div class="text-center">
                                     <i class="bi-basket icon-feature text-gradient d-block mb-3"></i>
                                     <h3 class="font-alt">Mise</h3>
