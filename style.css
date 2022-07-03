@@ -1,0 +1,32 @@
+/*
+Theme Name: Slanaitheoir
+Author: khacey
+*/
+
+
+.box-link {
+    text-decoration: none;
+}
+
+.samples {
+    border-radius: 10px;
+    border: 1px solid grey;
+    width: 250px;
+    margin: 10px;
+}
+
+.samples:hover {
+    box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.1);
+}
+
+.sample-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.container-fluid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
