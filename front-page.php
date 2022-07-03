@@ -241,7 +241,7 @@
                     <div class="sample-container">
                         <div class="samples">
                             <!-- Feature item-->
-                            <a class="box-link" href="https://scoile.khaceyslanaitheoir.com">
+                            <a class="box-link" href="http://scoile.khaceyslanaitheoir.com">
                                 <div class="text-center">
                                     <i class="bi-book icon-feature text-gradient d-block mb-3"></i>
                                     <h3 class="font-alt">Scoile</h3>
@@ -250,7 +250,7 @@
                         </div>
                         <div class="samples">
                             <!-- Feature item-->
-                            <a class="box-link" href="https://bialann.khaceyslanaitheoir.com">
+                            <a class="box-link" href="http://bialann.khaceyslanaitheoir.com">
                                 <div class="text-center">
                                     <i class="bi-shop icon-feature text-gradient d-block mb-3"></i>
                                     <h3 class="font-alt">Bialann</h3>
@@ -259,7 +259,7 @@
                         </div>
                         <div class="samples">
                             <!-- Feature item-->
-                            <a class="box-link" href="https://sanitas.khaceyslanaitheoir.com">
+                            <a class="box-link" href="http://sanitas.khaceyslanaitheoir.com">
                                 <div class="text-center">
                                     <i class="bi-clipboard icon-feature text-gradient d-block mb-3"></i>
                                     <h3 class="font-alt">Sanitas</h3>
@@ -268,7 +268,7 @@
                         </div>
                         <div class="samples">
                             <!-- Feature item-->
-                            <a class="box-link" href="https://mise.khaceyslanaitheoir.com">
+                            <a class="box-link" href="http://mise.khaceyslanaitheoir.com">
                                 <div class="text-center">
                                     <i class="bi-basket icon-feature text-gradient d-block mb-3"></i>
                                     <h3 class="font-alt">Mise</h3>
