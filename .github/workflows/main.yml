@@ -11,7 +11,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
-        server: ftp.samkirkland.com
-        username: myFtpUserName
+        server: ftp.khaceyslanaitheoir.com
+        username: admin.khaceyslanaitheoir.com
         password: ${{ secrets.ftp_password }}
         server-dir: /home2/khaceysl/public_html/wp-content/themes/slanaitheoir/
