@@ -40,7 +40,7 @@
                                 <!-- * * This can be a video, image, or just about anything else.-->
                                 <!-- * * Set the max width of your media to 100% and the height to-->
                                 <!-- * * 100% like the demo example below.-->
-                                <img src='<?php echo esc_url(get_template_directory_uri() . '/assets/img/demo-screen.webp'); ?>'
+                                <img src='<?php echo esc_url(get_template_directory_uri() . '/assets/img/demo-screen.png'); ?>'
                                     style="width: 100%; height: 100%">
                                 </img>
                             </div>
@@ -137,7 +137,7 @@
                                 <!-- * * This can be a video, image, or just about anything else.-->
                                 <!-- * * Set the max width of your media to 100% and the height to-->
                                 <!-- * * 100% like the demo example below.-->
-                                <img src='<?php echo esc_url(get_template_directory_uri() . '/assets/img/demo-screen_1.webp'); ?>'
+                                <img src='<?php echo esc_url(get_template_directory_uri() . '/assets/img/demo-screen_1.png'); ?>'
                                     style="width: 100%; height: 100%">
                                 </img>
                             </div>
